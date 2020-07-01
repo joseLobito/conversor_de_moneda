@@ -10,7 +10,7 @@
 
 ### imagen :horse:
 
-![No aparece imagen](Conversor.PNG)
+![No aparece imagen](conversor.PNG)
 
 ### api usada
 
