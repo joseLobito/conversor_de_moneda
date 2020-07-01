@@ -1,4 +1,4 @@
-# Conversor de divisas usando una api
+# Conversor de divisas usando una api :wolf:
 
 ---
 
@@ -8,7 +8,7 @@
 - css
 - html
 
-### imagen
+### imagen :horse:
 
 ![No aparece imagen](Conversor.PNG)
 
